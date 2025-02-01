@@ -1,0 +1,12 @@
+[submodule "LAB04_osa"]
+	path = LAB04_osa
+	url = https://github.com/jotavsevla/LAB04_osa.git
+[submodule "LAB05_osa"]
+	path = LAB05_osa
+	url = https://github.com/jotavsevla/LAB05_osa.git
+[submodule "tpI_osa"]
+	path = tpI_osa
+	url = https://github.com/jotavsevla/tpI_osa.git
+[submodule "tpII_osa"]
+	path = tpII_osa
+	url = https://github.com/jotavsevla/tpII_osa.git
